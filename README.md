@@ -4,7 +4,7 @@ The Book Store Management System is a web-based application that allows users to
 The primary purpose of this project is to develop a robust and scalable web application using Spring Boot framework that facilitates the management of a book store. The system aims to streamline various processes involved in operating a bookstore, including inventory management, customer transactions, and administrative tasks.
 
 1.Objectives
-\\Develop a responsive and intuitive web application for managing bookstore operations.
+\Develop a responsive and intuitive web application for managing bookstore operations.
 Implement secure authentication and authorization mechanisms to protect sensitive data.
 Provide an extensive catalog of books with robust search and filtering capabilities.
 Enable customers to add items to their shopping cart, proceed to checkout, and make payments securely.
